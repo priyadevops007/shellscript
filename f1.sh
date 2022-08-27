@@ -3,4 +3,3 @@
 ((sum=45+45))
 #Print the result
 echo $sum
-echo "this is add"
